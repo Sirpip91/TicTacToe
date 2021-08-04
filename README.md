@@ -16,5 +16,3 @@ The program is a .java file so it can be run through the console. If ran through
 
 # Technologies:
 The Tic-Tac-Toe program is a Java only program and does not use any packages since the program is in one file. There is only one import which is the Scanner. 
-
-Group Members/Contributors: Tianjian Li , Chance Cooper , Bradley Allen
